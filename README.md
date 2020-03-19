@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to push-flock-notify 👋</h1>
+<h1 align="center">Push-Flock-Notify 🚀</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/abhishekr700/push-flock-notify/blob/master/LICENSE" target="_blank">
