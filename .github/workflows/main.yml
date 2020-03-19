@@ -1,0 +1,9 @@
+on: push
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    name: "This is job 1"
+    steps:
+    - name: "Greeting step"
+      uses: "abhishekr700/push-flock-notify@master"

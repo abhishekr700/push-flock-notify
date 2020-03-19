@@ -1,0 +1,5 @@
+name: "Push-Flock-Notify"
+description: "Notifies a flock chat whenever a push is made to a github repository"
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
