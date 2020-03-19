@@ -4,4 +4,4 @@ COPY /src /
 
 RUN npm i
 
-CMD node notify.js
+CMD node /notify.js
