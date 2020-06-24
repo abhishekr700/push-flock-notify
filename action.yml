@@ -3,3 +3,4 @@ description: "Notifies a flock chat whenever a push is made to a github reposito
 runs:
   using: 'docker'
   image: 'Dockerfile'
+  icon: 'arrow-right'
